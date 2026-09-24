@@ -1,0 +1,13 @@
+Hypergraph-Dangling-Centrality-DC-HPC/
+│
+├── README.md
+├── DATA_SOURCES.md
+├── MANIFEST.txt
+│
+└── code/
+    ├── 01_Illustrative_8_Node_Hypergraph_Centrality.ipynb
+    ├── 02_Enron_Hypergraph_Centrality.ipynb
+    ├── 03_NDC_Hypergraph_Centrality_and_Communities.ipynb
+    ├── 04_Walmart_Hypergraph_Scalable_Centrality.ipynb
+    ├── 05_Enron_Community_Analysis_and_Visuals.ipynb
+    └── 06_Walmart_Community_Analysis_and_Visuals.ipynb
