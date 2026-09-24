@@ -1,0 +1,11 @@
+Hypergraph Dangling Centrality and DC-HPC v1.0.0
+
+Files included:
+README.md
+DATA_SOURCES.md
+code/01_Illustrative_8_Node_Hypergraph_Centrality.ipynb
+code/02_Enron_Hypergraph_Centrality.ipynb
+code/03_NDC_Hypergraph_Centrality_and_Communities.ipynb
+code/04_Walmart_Hypergraph_Scalable_Centrality.ipynb
+code/05_Enron_Community_Analysis_and_Visuals.ipynb
+code/06_Walmart_Community_Analysis_and_Visuals.ipynb
